@@ -1,0 +1,18 @@
+{
+  "type": "module",
+  "scripts": {
+    "start": "node bot_TokenPricePrediction.js"
+  },
+  "dependencies": {
+    "axios": "^1.3.2",
+    "chart.js-image": "^6.1.3",
+    "chat.js": "^1.0.2",
+    "dotenv": "^16.0.3",
+    "ethereum-block-by-date": "^1.4.6",
+    "fs": "^0.0.1-security",
+    "node-telegram-bot-api": "^0.59.0",
+    "openai": "^3.1.0",
+    "plotly": "^1.0.6",
+    "web3": "^1.8.2"
+  }
+}
